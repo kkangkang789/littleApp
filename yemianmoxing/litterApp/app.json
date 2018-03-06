@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/people/index",
+    "pages/maintenance/mOrder",
+    "pages/computer/assembly",
+    "pages/reservation/rOrder",
+    "pages/index/other/details",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#919191",
+    "selectedColor": "blue",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "selectedIconPath": "pages/images/111.png",
+        "iconPath": "pages/images/111.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "pages/images/111.png",
+        "iconPath": "pages/images/111.png",
+        "pagePath": "pages/maintenance/mOrder",
+        "text": "维修预约"
+      },
+      {
+        "selectedIconPath": "pages/images/111.png",
+        "iconPath": "pages/images/111.png",
+        "pagePath": "pages/computer/assembly",
+        "text": "电脑拼装"
+      },
+      {
+        "selectedIconPath": "pages/images/111.png",
+        "iconPath": "pages/images/111.png",
+        "pagePath": "pages/reservation/rOrder",
+        "text": "购物车"
+      },
+      {
+        "selectedIconPath": "pages/images/111.png",
+        "iconPath": "pages/images/111.png",
+        "pagePath": "pages/people/index",
+        "text": "个人中心"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+/* pages/index/other/details.wxss */
+.title-img {
+  width: 100%;
+}
+.pro-info {
+  width: 100%;
+  font-size:30rpx;
+  font-weight: bold;
+}
+.pro-info .pro-name {
+  float:left;
+}
+.pro-info .pro-num {
+  float: right;
+}
+.pro-price {
+    line-height: 40rpx;
+    margin-bottom: 30rpx;
+}
+.pro-price .fl {
+    color: #fd3f3f;
+    font-size: 35rpx;
+}
+.pro-price .fl text {
+    font-size: 35rpx;
+    font-weight: bold;
+}
+.pro-price .fr {
+    font-size: 24rpx;
+    color: #b5b5b5;
+    text-decoration: line-through;
+}
+.d-sendway {
+  height: 300rpx;
+}
+.d-btn {
+  width: 80%;
+  margin-left: 10%;
+  background-color: red;
+}
+/* 消除浮动 */
+.clearfix{zoom: 1; clear:both;}
+.clearfix:after {display: block;height: 0;overflow: hidden;content: " ";visibility: hidden;clear: both;}

@@ -1,0 +1,15 @@
+/**app.wxss**/
+/********** 初始化 **********/
+view,scroll-view,swiper,swiper-item,icon,text,progress,mask,input,button,label,form,checkbox,checkbox-group,picker,picker-item,radio,radio-group,switch,slider,slector-item,action-sheet,action-sheet-cancel,action-sheet-item,loading,toast,modal,navigator,image,audio,video,map,canvas,native{
+  margin:0;
+  padding: 0;
+}
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 

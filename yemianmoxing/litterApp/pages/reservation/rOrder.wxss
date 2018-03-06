@@ -1,0 +1,14 @@
+.pro-list {
+  width: 100%;
+}
+.pro-list image {
+  width: 30%;
+  height: 150rpx;
+}
+.price-controller {
+  margin-top: 100rpx;
+}
+.cal-btn {
+  margin-left: 30%;
+  background-color: red;
+}

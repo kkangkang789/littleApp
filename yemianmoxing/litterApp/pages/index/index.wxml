@@ -1,0 +1,52 @@
+<view class="search" id="search">
+  <view class='search-inner'>
+    <view class="search-r fr">
+     <input id="search_value" type="text" placeholder="cpu/内存条/主板/电脑拼装           "></input>
+    </view>
+  </view>
+</view>
+<view class="seclist">
+	<view class="user-like">
+		<view class="pro-top">
+			<view class="protop-name">商品推荐</view>
+			<view class="protop-line"></view>
+	</view>
+	<view class="pro-list clearfix" id="pro_list">
+		<navigator class="pro-lilf" url="../index/other/details">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+				<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU301 1台</view>
+				<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+		<navigator url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU302 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+    <navigator url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU302 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+    <navigator url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU302 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+    <navigator url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU302 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+		<navigator class="like-lilf" url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU303 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+		<navigator url="">
+			<view class="pro-img"><image src="../images/likepro.jpg" alt=""></image></view>
+			<view class="pro-name plr26 text-elli">鱼跃 制氧机 YU304 1台</view>
+			<view class="pro-price clearfix plr26"><text class="fl">￥<text>39.9</text></text><text class="fr">￥59.9</text></view>
+		</navigator>
+	</view>
+</view>
+</view>

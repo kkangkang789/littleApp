@@ -1,0 +1,31 @@
+<view class="section">
+  <view class="pro-list">
+    <view class="pro-image">
+      <radio class="pro_radio" />
+      <image src="/pages/images/likepro.jpg" alt=""></image>
+    </view>
+    <view class=""><text>鱼跃 制氧机 YU301 1台</text></view>
+    <view class="">￥<text>39.9</text></view>
+  </view>
+  <view class="pro-list">
+    <view class="pro-image">
+      <radio class="pro_radio" />
+      <image src="/pages/images/likepro.jpg" alt=""></image>
+    </view>
+    <view class=""><text>鱼跃 制氧机 YU301 1台</text></view>
+    <view class="">￥<text>39.9</text></view>
+  </view>
+    <view class="pro-list">
+    <view class="pro-image">
+      <radio class="pro_radio" />
+      <image src="/pages/images/likepro.jpg" alt=""></image>
+    </view>
+    <view class=""><text>鱼跃 制氧机 YU301 1台</text></view>
+    <view class="">￥<text>39.9</text></view>
+  </view>
+  <view class="price-controller">
+    <radio />全选
+    <text>合计:<text> 100</text></text>
+    <label class="cal-btn">结算(<text>100</text>)</label>
+  </view>
+</view>
